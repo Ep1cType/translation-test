@@ -1,0 +1,7 @@
+{
+    "title": "Internationalisierung mit i18next",
+    "description": {
+        "part1": "Bearbeiten Sie zunächst <1>src/App .js</1> und speichern, um neu zu laden.",
+        "part2": "Wechseln Sie die Sprache zwischen Englisch, Deutsch und Russisch mit den Tasten oben."
+    }
+}
